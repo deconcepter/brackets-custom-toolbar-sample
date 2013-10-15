@@ -1,0 +1,12 @@
+{
+    "name": "jp.codezine.custom_toolbar",
+    "title": "Simple dialog sample from toolbar",
+    "description": "ダイアログをサイドのツールバーから表示するサンプルプラグインです",
+    "homepage": "https://github.com/deconcepter/brackets-custom-toolbar-sample",
+    "version": "0.0.1",
+    "author": "http://twitter.com/deconcepter",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
